@@ -1,0 +1,44 @@
+Welcome to FNZB Credit Card Bank!
+This is a bill generator application.
+
+Credit Limit: 10000
+
+Billing Cycle 1
+Credit limit: 10000.0
+Outstanding Balance: 0.0
+What's your transaction?
+  1 - Add purchase
+  2 - View previous statement
+  3 - Make payment
+  4 - View rewards points
+  5 - Use rewards points
+  6 - End billing cycle
+  7 - Exit
+Enter the number of your choice: 1
+Purchase amount: 4500
+
+Billing Cycle 1
+Credit limit: 10000.0
+Outstanding Balance: 4500.0
+What's your transaction?
+...
+
+__________________________________________________
+
+Billing Cycle 1
+FNZB Credit Card Bank -- Statement of Account
+Previous Balance: 0E
+(-) Payments / Credits: 0
+(+) Purchases: 4500.0
+(+) Finance Charges: 0 
+(+) Late Payment Charges: 0
+Total Amount Due: 4500.0
+Minimum Amount Due: 850
+
+FNZB Credit Card Bank -- Rewards Points
+Previous Cards Points Balance: 0
+(+) Current Points Earned: 150.0
+(-) Points Used: 0
+Total Credit Points: 150.0
+
+__________________________________________________
